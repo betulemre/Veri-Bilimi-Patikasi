@@ -14,5 +14,13 @@
     4 değeri 3 değerinin sağında yer alır.
     2 değeri 3 değerinin solunda yer alır.
     
+    7 değerinin sağında 8, 8'in sağında 9 vardır.
+    7 değerinin solunda 5, 5'in sağında 6 vardır.
+    5'in solunda 1, 
+        1'in sağında 3,
+             3'ün solunda 2 va sağında 4 vardır.
+             
+    1'in solunda 0 vardır.
+        
     
     
